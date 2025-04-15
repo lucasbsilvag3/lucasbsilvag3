@@ -10,5 +10,5 @@ Sou Lucas Barros, estudante e entusiasta da área de Tecnologia da Informação.
 
 🎯 **Atualmente estudando:** Compiladores, Estruturas de Dados, Python e Desenvolvimento Web.
 
-📫 **Entre em contato:** lucasbsilvag3              e-mail:lucasbarroscc@gmail.com
+📫 **Entre em contato:  e-mail:lucasbarroscc@gmail.com
 ---
