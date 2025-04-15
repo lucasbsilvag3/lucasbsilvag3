@@ -1,16 +1,14 @@
-## 
+## Olá! 👋
 
-<!--
-**lucasbsilvag3/lucasbsilvag3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Lucas Barros, estudante e entusiasta da área de Tecnologia da Informação. Tenho interesse em desenvolvimento de software, análise de dados e automação. Este espaço reúne alguns dos meus projetos, estudos e contribuições.
 
-Here are some ideas to get you started:
+🔧 **Tecnologias com as quais trabalho:**
+- Python, Java
+- Git/GitHub
+- SQL
+- HTML, CSS, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **Atualmente estudando:** Compiladores, Estruturas de Dados, Python e Desenvolvimento Web.
+
+📫 **Entre em contato:** lucasbsilvag3              e-mail:lucasbarroscc@gmail.com
+---
